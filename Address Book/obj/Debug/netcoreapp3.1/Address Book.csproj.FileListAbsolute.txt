@@ -1,0 +1,16 @@
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.exe
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.deps.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.runtimeconfig.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.runtimeconfig.dev.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.dll
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.pdb
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.AssemblyReference.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address_Book.Form1.resources
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.GenerateResource.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.AssemblyInfoInputs.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.AssemblyInfo.cs
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.CoreCompileInputs.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.dll
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.pdb
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.genruntimeconfig.cache
